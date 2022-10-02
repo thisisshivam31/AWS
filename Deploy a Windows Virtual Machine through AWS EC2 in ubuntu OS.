@@ -1,0 +1,9 @@
+Launch EC2 Instance.
+-Using Window AMI
+-open RDP port
+-key generate in .pem extension
+Go to Connect button.
+-encrypt password using (.pem) key.
+-paste domain.
+-enter.
+Now Its ready for Use.
